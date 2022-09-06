@@ -1,9 +1,10 @@
 ## Welcome to Challenge 5
 
-Welcome to the fifth challenge! 
+Welcome to the fifth challenge!
 Today's goal is to update your forked repository and then create a Pull Request
 
 Task
+
 1. Ensure your forked repository is in sync with the latest changes in the main repository. Also ensure that the git branch that you created in Challenge 2 is also in sync with the latest changes
 2. Create a new folder inside the `contributors` folder, and name it with your github username. It should look something like this `contributors/<YOUR-GITHUB_USERNAME>/`. Ex.
 
@@ -25,12 +26,12 @@ name: your_name
 github_user_name: YOUR-GITHUB-USERNAME
 ---
 ```
+
 <<<<<<< HEAD
-<<<<<<< HEAD
-5. Submit your Pull Request on the main challenge repo.
-=======
-5. Submit your Pull Request
->>>>>>> 34e5495 (Update challenge_5.md)
-=======
-5. Submit your Pull Request on the main challenge repo.
->>>>>>> 8418b0c (Update challenge_5.md)
+<<<<<<< HEAD 5. Submit your Pull Request on the main challenge repo.
+======= 5. Submit your Pull Request
+
+> > > > > > > # 34e5495 (Update challenge_5.md)
+> > > > > > >
+> > > > > > > 5. Submit your Pull Request on the main challenge repo.
+> > > > > > >    8418b0c (Update challenge_5.md)
