@@ -1,12 +1,7 @@
 ## Welcome to Challenge 5
 
-<<<<<<< HEAD
-Welcome to the fifth challenge!
-=======
-Welcome to the fifth challenge!
-
-> > > > > > > 2496816 (Update challenge_5.md)
-> > > > > > > Today's goal is to update your forked repository and then create a Pull Request
+Welcome to the fifth challenge! 
+Today's goal is to update your forked repository and then create a Pull Request
 
 Task
 
@@ -19,33 +14,15 @@ contributors/shivaylamba/
 
 3. Create a markdown file in the folder you created following the naming convention for the file: `<YOUR-GITHUB-USERNAME>.md`. Ex.
 
-```
+
 contributors/shivaylamba/shivaylamba.md
-```
+
 
 4. Copy the following template into your file, delete the placeholder text and fill the information with yours.
 
-```
 ---
 name: your_name
 github_user_name: YOUR-GITHUB-USERNAME
 ---
-```
-<<<<<<< HEAD
-
-<<<<<<< HEAD
-
-<<<<<<< HEAD
-<<<<<<< HEAD 5. Submit your Pull Request on the main challenge repo.
-======= 5. Submit your Pull Request
-
-> > > > > > > # 34e5495 (Update challenge_5.md)
-> > > > > > >
-> > > > > > > 5. Submit your Pull Request on the main challenge repo.
-> > > > > > >    8418b0c (Update challenge_5.md)
-> > > > > > >    =======
-> > > > > > > 6. Submit your Pull Request
-> > > > > > >    2496816 (Update challenge_5.md)
-=======
 5. Submit your Pull Request on the main challenge repo.
->>>>>>> 6d14cab (Update challenge_5.md)
+
